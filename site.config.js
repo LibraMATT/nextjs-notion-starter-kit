@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '723d283f18c248c89e1536b0e46d1ada',
+  rootNotionPageId: '03338b686c854a08ad65c8d2df585b26',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'SOUR Thinking',
-  domain: 'https://www.notion.so/723d283f18c248c89e1536b0e46d1ada',
+  domain: 'https://www.notion.so/03338b686c854a08ad65c8d2df585b26',
   author: 'Grape Vinegar',
 
   // open graph metadata (optional)
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: '',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
